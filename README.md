@@ -18,4 +18,4 @@ Static positions at frame:
   
   
 Preview:
-![Image Cow mob](https://raw.githubusercontent.com/AspireMint/mob_panda/master/preview.png)
+![Image Panda mob](https://raw.githubusercontent.com/AspireMint/mob_panda/master/preview.png)
